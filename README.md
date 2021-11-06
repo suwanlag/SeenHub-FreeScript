@@ -1,1 +1,0 @@
-# SeenHub-FreeScript
